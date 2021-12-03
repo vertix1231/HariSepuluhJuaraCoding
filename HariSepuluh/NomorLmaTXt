@@ -1,0 +1,24 @@
+a. Suatu method wajib mengembalikan nilai (return value) ke pemanggilnya.
+method yang wajib memberi nilai balian adalah metod yang memiliki spesifik kusus keluaran tipe data nilai.
+ada juga metod yang g perlu nilai balikan dengan tipe data void. jadi kesimpulannya terganteng tipe data metod
+yang akan dipakai
+
+b. Suatu method wajib meminta parameter dari pemanggilnya.
+metod dibuat untuk kepentingan pengelompokan logika agar lebih mudah dibaca. dan ada kasus tertentu
+dimana metod sangat sederhana sekali atau sangat komples sekali.
+jadi ada saat tertentuk tergantung kasus yg dihadapi dimana kita tidak perlu membuat suatu parameter
+
+
+c. Suatu method wajib memiliki parameter dan return value dengan tipe data yang
+sama
+jika tipe data metod ditentukan spesifik maka tentu perlu nilai balikan yangsa ma pula dengan metodnya.
+parameter yang dibuat tidak harus memeliki tipe data yang sama dengan nilai balikan tapi hasil ttp harus nilai balikan metod.
+
+tapi lain halnya dengan tipe data void maka tidak perlu nilai balian dan parameter yangsa nagat flexbile
+
+d. Suatu method dapat memiliki lebih dari satu parameter
+ya karna barkaitan dengan banyak nya inputan yang akan kita masukan untuk mememecahkan kasus tersebut sehingga boleh lebih dari satu
+
+
+e. Suatu method dapat memiliki lebih dari satu return value
+tidak boleh karna nilai balikan disesuaikan dengan tipe data metod itu sendiri
